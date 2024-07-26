@@ -1,0 +1,18 @@
+{
+    "name": "lucas-re/buscador-de-cursos",
+    "description": "pacote que busca cursos na Alura",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LucasRe\\BuscadorDeCursos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Reis",
+            "email": "gabriellucasjr017@gmail.com"
+        }
+    ],
+    "require": {}
+}
