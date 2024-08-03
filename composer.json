@@ -14,5 +14,9 @@
             "email": "gabriellucasjr017@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "symfony/dom-crawler": "^4.2",
+        "symfony/css-selector": "^7.1"
+    }
 }
