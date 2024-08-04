@@ -1,5 +1,8 @@
 <?php 
-    namespace Alura\BuscadorDeCursos;
+    /**
+     * Aqui criamos uma classe para encapsular a lógica do buscador de cursos
+     */
+    namespace LucasRe\BuscadorDeCursos;
 
     use GuzzleHttp\ClientInterface;
     use Symfony\Component\DomCrawler\Crawler;

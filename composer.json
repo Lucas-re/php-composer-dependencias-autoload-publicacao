@@ -4,6 +4,12 @@
     "type": "library",
     "license": "MIT",
     "autoload": {
+        "classmap": [
+            "./"
+        ],
+        "files": [
+            "./funcoes.php"
+        ],
         "psr-4": {
             "LucasRe\\BuscadorDeCursos\\": "src/"
         }

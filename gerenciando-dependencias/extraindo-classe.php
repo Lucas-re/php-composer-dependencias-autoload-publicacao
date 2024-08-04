@@ -7,7 +7,7 @@
      * Neste aqui, instanciamos a classe buscador que encapsula toda a lógica da busca de cursos 
      * com o Client Http e o DOMCrawler
      */
-    use Alura\BuscadorDeCursos\Buscador;
+    use LucasRe\BuscadorDeCursos\Buscador;
     use GuzzleHttp\Client;
     use Symfony\Component\DomCrawler\Crawler;
 
